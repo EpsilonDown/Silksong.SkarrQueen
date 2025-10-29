@@ -2,12 +2,12 @@
 Mod that overbuffs Skarrsinger Karmelita.
 
 *Nexus Mods:*
+https://www.nexusmods.com/hollowknightsilksong/mods/718
 
 *Thunderstore:*
 
-
 *GitHub release:*
-
+https://github.com/EpsilonDown/Silksong.SkarrQueen
 
 ## Installation intructions
 
